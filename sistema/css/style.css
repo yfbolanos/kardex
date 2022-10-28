@@ -1,0 +1,13 @@
+.menu {
+    background-color: #3662db;
+    background-image: linear-gradient(180deg,#385197 10%,#728ddb 100%);
+    background-size: cover;
+}
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dddfeb;
+    border-radius: .35rem;
+    max-width: 100%;
+    height: 100%;
+  }
